@@ -1,3 +1,4 @@
+//12345678
 #include <math.h>
 bool checkPrime(unsigned int value) //проверка числа на простоту
 {
